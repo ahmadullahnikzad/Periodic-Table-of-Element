@@ -1,0 +1,1427 @@
+a.H {
+    background-color: rgb(13, 185, 228);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.H:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
+
+h1 {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.Li {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    padding-top: 5px;
+    border: 1px solid black;
+    color: white;
+}
+
+.Li:hover {
+    background-color: rgb(238, 160, 14);
+}
+
+.Na {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.K {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Rb {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cs {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Fr {
+    background-color: orange;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Be {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Mg {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ca {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sr {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ba {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ra {
+    background-color: orangered;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sc {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ti {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.V {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cr {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Mn {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Fe {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Co {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ni {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cu {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Zn {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Y {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Zr {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Nb {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Mo {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Tc {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ru {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Rh {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pd {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ag {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cd {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.LA {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Hf {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ta {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.W {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Re {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Os {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ir {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pt {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Au {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Hg {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.AC {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Rf {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Db {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sg {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Bh {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Hs {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Mt {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ds {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Rg {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cn {
+    background-color: teal;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.La {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ce {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pr {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Nd {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pm {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sm {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Eu {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Gd {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Tb {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Dy {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ho {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Er {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Tm {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Yb {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Lu {
+    background-color: red;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ac {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Th {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pa {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.U {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Np {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pu {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Am {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cm {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Bk {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cf {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Es {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Fm {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Md {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.No {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Lr {
+    background-color: lime;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.B {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Al {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ga {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.In {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Tl {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Nh {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.C {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Si {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ge {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sn {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Pb {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Fl {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.N {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.P {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.As {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Sb {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Bi {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Mc {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.O {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.S {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Se {
+    background-color: rgb(247, 7, 139);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Te {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Po {
+    background-color: gray;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Lv {
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.F {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Cl {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Br {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.I {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.At {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ts {
+    background-color: rgb(198, 20, 243);
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.He {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ne {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Ar {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Kr {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Xe {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Rn {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.Og {
+    background-color: blue;
+    height: 20px;
+    width: 15px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    border: 1px solid black;
+}
+
+.period1 {
+    margin: 0px 150px;
+}
+
+.period2 {
+    margin: -300px 210px;
+}
+
+div.period3 {
+    margin: 0px 270px;
+    display: flex;
+    margin-top: 93px;
+}
+
+.period4 {
+    margin: 0px 270px;
+    display: flex;
+}
+
+.period5 {
+    margin: 0px 270px;
+    display: flex;
+}
+
+.period6 {
+    margin: 0px 270px;
+    display: flex;
+    margin-bottom: 3px;
+}
+
+.period7 {
+    margin: 0px 270px;
+    display: flex;
+}
+
+.period8 {
+    margin: 0px 270px;
+    display: flex;
+}
+
+.period9 {
+    margin: -398px 843px;
+}
+
+.period10 {
+    margin: 0px 900px;
+    margin-top: 97.5px;
+}
+
+.period11 {
+    margin: 0px 957px;
+    margin-top: -300.5px;
+}
+
+.period12 {
+    margin: 0px 1014px;
+    margin-top: -300.5px;
+}
+
+.period13 {
+    margin: 0px 1071px;
+    margin-top: -301px;
+}
+
+.period14 {
+    margin: 0px 1128px;
+    margin-top: -347px;
+}
+
+.period15 {
+    margin: 78px 270px;
+    margin-bottom: -78px;
+    display: flex;
+}
+
+ul li {
+    float: left;
+    margin: 0px 20px;
+}
+
+ul {
+    margin: -660px 350px;
+    display: block;
+    width: 300px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
